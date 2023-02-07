@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quest-React-Base/static/css/main.17f9b88a.css",
+    "main.js": "/Quest-React-Base/static/js/main.0463b971.js",
+    "static/js/787.f39b2568.chunk.js": "/Quest-React-Base/static/js/787.f39b2568.chunk.js",
+    "index.html": "/Quest-React-Base/index.html",
+    "main.17f9b88a.css.map": "/Quest-React-Base/static/css/main.17f9b88a.css.map",
+    "main.0463b971.js.map": "/Quest-React-Base/static/js/main.0463b971.js.map",
+    "787.f39b2568.chunk.js.map": "/Quest-React-Base/static/js/787.f39b2568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f9b88a.css",
+    "static/js/main.0463b971.js"
+  ]
+}
