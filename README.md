@@ -28,7 +28,7 @@ A quest consiste em criar página simples utilizando react para completar dois d
 
 ### Links
 
-- URL da solução: [https://github.com/Jggranito/Quest-JS-Avancado](https://github.com/Jggranito/Quest-JS-Avancado)
+- URL da solução: [https://github.com/Jggranito/Quest-React-Base](https://github.com/Jggranito/Quest-React-Base)
 - URL do site ao vivo: [https://jggranito.github.io/Quest-JS-Avancado/](https://jggranito.github.io/Quest-JS-Avancado/)
 
 ## Autor
