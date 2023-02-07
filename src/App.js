@@ -1,22 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Button from './componets/Button/button';
+import Paragraph from './componets/paragraph/paragraph';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Está página transforma qualquer texto em uppercase (letras maiúsculas)</h2>
+        <Paragraph color='#40407a' textTransform='upperCase'/>
+        <Button label="Botão clique aqui" text='Cliqui aqui!'/>
       </header>
     </div>
   );

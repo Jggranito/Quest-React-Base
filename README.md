@@ -1,71 +1,37 @@
-# Getting Started with Create React App
+# Quest-JavaScript-Avançado
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta é uma solução para a Quest React base. As quests do curso DevQuest do [@devemdobro](instagram.com/devemdobro), são desafios que nos ajudam a aprimorar e desenvolver nossas habilidades de codificação.
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+- [Visão geral](#visão-geral)
+   - [O desafio](#O-desafio)
+   - [Links](#links)
+- [Autor](#autor)
 
-### `npm start`
+## Visão geral
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### O desafio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A quest consiste em criar página simples utilizando react para completar dois desafios:
 
-### `npm test`
+- Desafio 1:
+   Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS.
+    1 - Dê um bom nome ao seu componente;
+    2 - Faça o componente renderizar na tela um parágrafo colorido e com todas as letras maiúsculas usando JS;
+    3 - Utilize props para passar o texto e a cor de texto desejada
+    para dentro do componente (a cor pode ser uma palavra, como 'red', ou um hexadecimal);
+    4 - Pode utilizar o style inline para colorir o componente da forma que foi mostrado nas aulas;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Desafio 2:
+   Criar um componente Button com um evento de clique que apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é <insira a label aqui via JS>".
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- URL da solução: [https://github.com/Jggranito/Quest-JS-Avancado](https://github.com/Jggranito/Quest-JS-Avancado)
+- URL do site ao vivo: [https://jggranito.github.io/Quest-JS-Avancado/](https://jggranito.github.io/Quest-JS-Avancado/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Autor
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Quest-React-Base
+- Mentor de frontend - [@Jggranito](https://www.frontendmentor.io/profile/Jggranito)
+- LinkedIn - [João Gabriel Granito](https://www.linkedin.com/in/jo%C3%A3o-gabriel-granito-77666a262/)

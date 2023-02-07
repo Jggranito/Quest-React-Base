@@ -1,0 +1,9 @@
+.paragraph {
+    width: 550px;
+    min-height: 150px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    color: black;
+    padding: 20px;
+    line-height: 30px;
+}
